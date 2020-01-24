@@ -4,7 +4,7 @@
 Dissertation in macroeconomics
 ---------------------
 
-* **Idias of work**
+* **Ideas of work**
 1) Exist an interesting macro puzzle that is: how to model and explicate the wealth concentration since the 1980s? I sown by the first time in: https://github.com/gboehl/macro_puzzles
 2) construct a DSGE model to explain the agricultural sector of Brazil (exemple: https://ier.ut.ac.ir/article_74482_a2df61a0f8c36432f39f6a40fe42aa7e.pdf). This model wold be constructed using Jupyter and disponimibizade in Github.
 3) personally I believe that the world economy don't grow because people dont want co consume. The pattern of consume is changing. Today I’m necessary more than change the design of a car to attract new consumers. The persons want things that are really new. So, two things are going on, first the people are been orientated to consume few, second there is nothing really new.
