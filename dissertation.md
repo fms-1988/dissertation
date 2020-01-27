@@ -44,4 +44,4 @@
 
 22. What will happen with Brazil when China pass to bought soy and corn from USA?
 
-23. How to eliminate the cars from earth?
+23. How to eliminate cars from earth?
