@@ -1,4 +1,4 @@
-## Ideas of work
+## Ideas for dissertation
 ---
 1. Exist an interesting macro puzzle that is: how to model and explicate the wealth concentration since the 1980s?  [here](https://github.com/gboehl/macro_puzzles)
 
